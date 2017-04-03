@@ -1,0 +1,30 @@
+@charset "utf-8";
+#wrapper {
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+.btn {
+	display: inline-block;
+	padding: 5px 10px 6px 10px;
+	text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+	font-weight: bold;
+	box-shadow: 0 0 2px rgba(0,0,0,.5);
+	background: linear-gradient(rgba(255,255,255,.4), rgba(186,186,186,.4));
+}
+
+.blue:hover {
+	background-color: #00c0ff;
+	color: #fff
+}
+
+.green:hover {
+	background-color: #3f0;
+	color: #fff
+}
+
+.red:hover {
+	background-color: #F00;
+	color: #fff
+}
