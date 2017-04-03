@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	width: 100%;
+	-webkit-box-pack: center;
+}
+
+div{
+	height: 200px;
+	width: 200px;
+}
+
+#box1 {
+	background-color: #09F; /* niebieski*/
+}
+
+#box2 {
+	background-color: #6F6; /* ziel*/
+}
+
+#box3 {
+	background-color: #FC3; /*zolty*/
+}
